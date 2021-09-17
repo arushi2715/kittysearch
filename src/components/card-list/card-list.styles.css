@@ -1,0 +1,11 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  color: rgb(9, 9, 68);
+  font-family: "Glory", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
