@@ -1,6 +1,6 @@
 <div align="center">
 
-# KITTYREACT
+# KITTY-SEARCH
 
 </div>
 
